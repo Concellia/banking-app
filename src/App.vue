@@ -1,13 +1,11 @@
 <template>
-    <div id="app">
-    </div>
+  <div id="app"></div>
 </template>
-  
-  <script setup lang="ts">
-  </script>
-  
-  <style>
-  html {
-    font-size: 100px;
-  }
-  </style>
+
+<script setup lang="ts"></script>
+
+<style>
+html {
+  font-size: 100px;
+}
+</style>
