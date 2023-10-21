@@ -1,3 +1,5 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
+exports[`(ButtonTemplate > should render correctly 1`] = `"Test Button"`;
+
 exports[`TextCard > should render correctly 1`] = `"Test Button"`;
